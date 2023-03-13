@@ -22,8 +22,8 @@ Probability and Statistics (DASC 5302)
 
 Assignments
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
-    – Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and descriptive     statistics.
-2) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
+    - Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and               descriptive statistics.
+3) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
     - Performed goodness of fit chi-square test on the sample data collected to determine population distribution. Comparisonal study with the results from Part I.
   
 Second Semester
