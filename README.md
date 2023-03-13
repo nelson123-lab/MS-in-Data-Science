@@ -11,6 +11,7 @@ Assignements
 
 Foundations of Computing (DASC 5301)
 - Learned Data structures and Algorithms as part of the coursework. The course included three data analysis projects each contains a Report, Presentation and a viva. Projects were group of 2 peoople.
+- 
 Projects
 1) NYC accident data analysis 
 2) DBLP data analysis using Graphs 
@@ -18,11 +19,12 @@ Projects
 
 Probability and Statistics (DASC 5302)
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.
+
 Assignments
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
-  – Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and descriptive     statistics.
+    – Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and descriptive     statistics.
 2) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
-  - Performed goodness of fit chi-square test on the sample data collected to determine population distribution. Comparisonal study with the results from Part I.
+    - Performed goodness of fit chi-square test on the sample data collected to determine population distribution. Comparisonal study with the results from Part I.
   
 Second Semester
 
@@ -31,11 +33,14 @@ Data science Project Managment (DASC 5303)
 
 Machine Learning (CSE 6363)
 - Studied about Supervised machine learning algorithms in depth.
+
 Assignments
 1) Linear Regression from scratch Implementation using only NumPy library.
 2) Logistic Regression and Linear Discriminant Analysis implementation from scratch using NumPy library and plotting the decision boundaries using Mlxtend library.
 
 Neural Networks (CSE 5368)
+
+Assignments
 1) Multilayer Neural Network from scratch Implementation using only NumPy library
    - Calculated the derivates manually by using F(w+h) - f(w-h)
 2) Multilayer Neural Network from scratch Implementation using only TensorFlow and NumPy without using Keras
