@@ -14,10 +14,9 @@ Foundations of Computing (DASC 5301)
 - Learned Data structures and Algorithms as part of the coursework. The course included three data analysis projects each contains a Report, Presentation and a viva. Projects were group of 2 peoople.
 
 Projects
-1) NYC accident data analysis 
-2) DBLP data analysis using Graphs 
-3) IMDB data analysis using SQL
-https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL
+1) NYC accident data analysis https://github.com/nelson123-lab/Data-Analysis-on-Motor-Vechile-collisions-in-Newyork-city
+3) DBLP data analysis using Graphs 
+4) IMDB data analysis using SQL https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL
 
 Probability and Statistics (DASC 5302)
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.
