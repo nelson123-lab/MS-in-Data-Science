@@ -17,6 +17,7 @@ Projects
 1) NYC accident data analysis 
 2) DBLP data analysis using Graphs 
 3) IMDB data analysis using SQL
+https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL
 
 Probability and Statistics (DASC 5302)
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.
