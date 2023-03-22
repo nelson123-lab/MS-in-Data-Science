@@ -15,7 +15,7 @@ Foundations of Computing (DASC 5301)
 
 Projects
 1) NYC accident data analysis https://github.com/nelson123-lab/Data-Analysis-on-Motor-Vechile-collisions-in-Newyork-city
-3) DBLP data analysis using Graphs 
+3) DBLP data analysis using Graphs https://github.com/nelson123-lab/Graph-data-analysis-on-digital-bibliography-and-library-project
 4) IMDB data analysis using SQL https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL
 
 Probability and Statistics (DASC 5302)
