@@ -38,6 +38,7 @@ Machine Learning (CSE 6363)
 Assignments
 1) Linear Regression from scratch Implementation using only NumPy library.
 2) Logistic Regression and Linear Discriminant Analysis implementation from scratch using NumPy library and plotting the decision boundaries using Mlxtend library.
+3) Multilayer Neural Network from scratch using numpy applying oops concepts.
 
 Neural Networks (CSE 5368)
 
