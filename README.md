@@ -19,7 +19,7 @@ Projects
 4) IMDB data analysis using SQL https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL
 
 Probability and Statistics (DASC 5302)
-- Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.
+- Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression. https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS
 
 Assignments
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
