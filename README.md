@@ -40,6 +40,8 @@ Assignments
 2) Logistic Regression and Linear Discriminant Analysis implementation from scratch using NumPy library and plotting the decision boundaries using Mlxtend library.
 3) Multilayer Neural Network from scratch using numpy applying oops concepts.
 4) Decision Tree and Random Forest from scratch and Boosting ( Ada boost ) from scratch
+5) Mini Chat gpt using Hugging face pre-trained model.
+6) Project - Gym Exercise Recommendation App.
 
 Neural Networks (CSE 5368)
 
@@ -47,7 +49,7 @@ Assignments
 1) Multilayer Neural Network from scratch Implementation using only NumPy library
    - Calculated the derivates manually by using F(w+h) - f(w-h)
 2) Multilayer Neural Network from scratch Implementation using only TensorFlow and NumPy without using Keras
-3) Neural Network using tensorflow and keras by adding layer by layer and making visualizations of output from 
+3) Convolutional Neural Network using tensorflow and keras by adding layer by layer and making visualizations of output from 
    manually written confusion matrix function.
-4) Neural Network using Tensorflow and keras that supports layer addition and deletion.
+4) Convolutional Neural Network using Tensorflow and keras that supports layer addition and deletion.
 5) Deep Convolutional Generative Adversarial Network using Tensorflow
