@@ -41,7 +41,8 @@ Assignments
 3) Multilayer Neural Network from scratch using numpy applying oops concepts.
 4) Decision Tree and Random Forest from scratch and Boosting ( Ada boost ) from scratch
 5) Mini Chat gpt using Hugging face pre-trained model.
-6) Project - Gym Exercise Recommendation App.
+6) Project - Gym Exercise Recommendation App
+7) chat gpt using Hugging face.
 
 Neural Networks (CSE 5368)
 
