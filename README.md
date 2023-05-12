@@ -3,7 +3,7 @@ My Coursework and Projects during my masters program.
 
 ## First Semester
 
-Data Science (DASC 5300)
+### Data Science (DASC 5300)
 - Acquired knowledge of Supervised and Unsupervised algorithms and a basics of Neural Network.
 
 Assignements
@@ -12,7 +12,7 @@ Assignements
 3) Exploratory Data Analysis and Classification using SVM.
     [Repository](https://github.com/nelson123-lab/EDA-and-classification-of-the-data-using-SVM)
 
-Foundations of Computing (DASC 5301)
+### Foundations of Computing (DASC 5301)
 - Learned Data structures and Algorithms as part of the coursework. The course included three data analysis projects each contains a Report, Presentation and a viva. Projects were group of 2 peoople.
 
 Projects
@@ -23,7 +23,7 @@ Projects
 5) IMDB data analysis using SQL 
     [Repository](https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL)
 
-Probability and Statistics (DASC 5302)
+### Probability and Statistics (DASC 5302)
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.     [Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
 
 Assignments
@@ -34,12 +34,13 @@ Assignments
 
 ## Second Semester
 
-Data science Project Managment (DASC 5303)
+### Data science Project Managment (DASC 5303)
 - Leared the workflow of a data science project, different managment processes, investment strategies.
 - Data science project management project.
 Machine Learning (CSE 6363)
 - Studied about Supervised machine learning algorithms in depth.
 
+### Machine Learning (CSE 6363)
 Assignments
 1) Linear Regression from scratch Implementation using only NumPy library
     [Repository](https://github.com/nelson123-lab/Linear-Regression-implementation-using-only-Numpy-gradient-descent-approach)
@@ -54,7 +55,7 @@ Assignments
 8) Text Summarization using BART.
     [Repository](https://github.com/nelson123-lab/Text-Summarization-using-BART)
 
-Neural Networks (CSE 5368)
+### Neural Networks (CSE 5368)
 
 Assignments
 1) Multilayer Neural Network from scratch Implementation using only NumPy library
