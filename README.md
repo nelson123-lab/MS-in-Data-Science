@@ -1,7 +1,7 @@
 # MS-in-Data-Science
 My Coursework and Projects during my masters program.
 
-## First Semester
+## First Semester 
 
 Data Science (DASC 5300)
 - Acquired knowledge of Supervised and Unsupervised algorithms and a basics of Neural Network.
