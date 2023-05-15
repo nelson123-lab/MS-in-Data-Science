@@ -26,7 +26,8 @@ Projects
 ### Probability and Statistics (DASC 5302)
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.     
 
-Assignments
+Assignments:-
+
 [Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
     - Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and               descriptive statistics.
