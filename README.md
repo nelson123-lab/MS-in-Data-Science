@@ -24,9 +24,10 @@ Projects
     [Repository](https://github.com/nelson123-lab/IMDB-Data-analysis-using-SQL)
 
 ### Probability and Statistics (DASC 5302)
-- Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.     [Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
+- Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.     
 
 Assignments
+[Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
     - Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and               descriptive statistics.
 3) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
