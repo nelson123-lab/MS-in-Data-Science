@@ -3,6 +3,7 @@
 This repository serves as a comprehensive collection of the coursework and projects completed during my master's program. It showcases the extensive body of work that I have developed, demonstrating my proficiency and expertise in various areas of study.
 
 Note:-
+
 - Please note that while this repository contains my personal contributions and implementations, it does not include any assignment descriptions or materials provided by the university. I have ensured that only my own work is shared, respecting the intellectual property and confidentiality of the coursework.
 
 - By showcasing my coursework and projects, I aim to highlight my ability to apply theoretical concepts to practical scenarios, solve complex problems, and deliver high-quality software solutions. Each project within the repository represents a unique challenge that I have successfully tackled, employing industry-standard methodologies and best practices.
