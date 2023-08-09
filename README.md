@@ -50,10 +50,11 @@ Assignments:-
 ### Data science Project Managment (DASC 5303)
 - Leared the workflow of a data science project, different managment processes, investment strategies.
 - Data science project management project.
-Machine Learning (CSE 6363)
-- Studied about Supervised machine learning algorithms in depth.
 
 ### Machine Learning (CSE 6363)
+- Studied about Supervised machine learning algorithms in depth.
+
+
 Assignments
 1) Linear Regression from scratch Implementation using only NumPy library
     [Repository](https://github.com/nelson123-lab/Linear-Regression-implementation-using-only-Numpy-gradient-descent-approach)
