@@ -84,3 +84,25 @@ Assignments
     [Repository](https://github.com/nelson123-lab/Convolutional-Neural-Network-using-Keras-and-Tensorflow-with-layer-addition-and-deletion)
 5) Deep Convolutional Generative Adversarial Network using Tensorflow
     [Repository](https://github.com/nelson123-lab/DCGAN_Neural_Network)
+
+
+### Computer Vision (CSE 6363)
+
+The course structure includes a total of 4 assignments and projects. My works are displayed below.
+1) Canny edge detection from scratch
+   - Created an algorithm from scratch to detect the edge and compared the results obtained from the OpenCV python package. This includes implementing fuction for each of the steps that are undertaken within the
+     the canny edge detection before reaching the final results.
+     [Repository](https://github.com/nelson123-lab/Canny-Edge-detection-from-scratch)
+2) Hough transform and corner detection
+   - This includes hough transform to identify different shapes and the implementation of the harris corner detection.
+     [Repository](https://github.com/nelson123-lab/Hough-Transform-and-Harris-Corner-Detection)
+3) Image stitching and panorama creation
+   - This assignment includes the process of creating a panorama by identifying the key points in different image and combining them to obtain the stitched image.
+     [Repository](https://github.com/nelson123-lab/panorama?tab=readme-ov-file)
+4) 2D Face Reconstruction
+   - This assignment includes the process of reconstructing a face with the help of different number of eigen vectors. This work compares the reconstruction ability of different combination of the eigen reconstructed faces.
+     [Repository](https://github.com/nelson123-lab/2D-Face-Reconstruction)
+5) Narrating the Unseen: Real-Time Video Descriptions for Visually Impaired Individuals
+   - This is the final project of the computer vision course. The paper includes the use of creation of the model setup where the visually impaired people can understand their surroundings in the best way compared to all other existing methods. The system uses GPT-4_vision to do the image captioning of the surrounding in real time.
+     [Repository](https://github.com/nelson123-lab/Narrating-the-Unseen-Real-Time-Video-Descriptions-for-Visually-Impaired-Individuals)
+
