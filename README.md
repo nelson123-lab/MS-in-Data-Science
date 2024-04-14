@@ -12,14 +12,14 @@ Note:-
 
 - I believe that this repository not only reflects my technical capabilities but also showcases my dedication to producing well-documented, thoroughly tested, and user-focused software. I have always prioritized delivering solutions that meet the needs of end-users, ensuring intuitive interfaces and seamless user experiences.
 
-## First Semester 
+## My academic Coursework and Projects
 
 ### Data Science (DASC 5300)
 - Acquired knowledge of Supervised and Unsupervised algorithms and a basics of Neural Network.
 
 Assignements
 1) Pandas Exercise and Manual implementation of Decision Trees by writing functions for Gini Impurity, Entropy and Information Gain.
-    [Repository](https://github.com/nelson123-lab/Data-manipulation-using-pandas-and-Decision-Tree-implenation-functions)
+   [Repository](https://github.com/nelson123-lab/Data-manipulation-using-pandas-and-Decision-Tree-implenation-functions)
 3) Exploratory Data Analysis and Classification using SVM.
     [Repository](https://github.com/nelson123-lab/EDA-and-classification-of-the-data-using-SVM)
 
@@ -38,14 +38,11 @@ Projects
 - Learned Descriptive Statistics, Discrete and Continouous Probability distributions, Hypothesis Testing and Hypothesis testing in Linear Regression.     
 
 Assignments:-
-
-[Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
 1) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - I
-    - Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and               descriptive statistics.
-3) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
-    - Performed goodness of fit chi-square test on the sample data collected to determine population distribution. Comparisonal study with the results from Part 
-
-## Second Semester
+    - Collected real-world data, performed descriptive statistics and made assumptions about the population distribution from the results of visualizations and descriptive statistics.
+2) EXPERIMENTAL DATA COLLECTION AND DESCRIPTIVE STATISTICS PART - II
+    - Performed goodness of fit chi-square test on the sample data collected to determine population distribution. Comparisonal study with the results from Part
+   [Repository](https://github.com/nelson123-lab/EXPERIMENTAL-DATA-COLLECTION-AND-DESCRIPTIVE-STATISTICS)
 
 ### Data science Project Managment (DASC 5303)
 - Leared the workflow of a data science project, different managment processes, investment strategies.
